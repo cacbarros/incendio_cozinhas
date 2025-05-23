@@ -27,7 +27,7 @@ incendio_cozinhas/
 ├── simulacoes/          # Scripts e outputs de simulações (CFD, Fire Dynamics)
 ├── imagens/             # Diagramas, esquemas e ilustrações
 └── README.md            # Este ficheiro
-
+```
 ---
 
 ## 📁 Organização e Git
