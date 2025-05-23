@@ -1,0 +1,33 @@
+# Principais bibliotecas científicas
+numpy
+pandas
+scipy
+
+# Visualização
+matplotlib
+seaborn
+plotly
+
+# Simulações e modelação de incêndios (CFD e análise térmica)
+fdsreader         # Leitura de resultados do Fire Dynamics Simulator
+pyvista           # Visualização 3D de malhas e resultados
+
+# Engenharia e modelação física
+coolprop          # Propriedades termo-físicas de fluidos
+thermo            # Propriedades para engenharia química
+fluids            # Engenharia de escoamentos
+
+# Ferramentas para notebooks e documentação
+jupyterlab
+notebook
+quarto            # caso o ambiente suporte execução direta com quarto CLI
+jupytext          # Sincronização entre .py e .ipynb
+
+# Linter e análise de código
+ruff
+mypy
+
+# Outras utilidades
+ipython
+rich
+tqdm
