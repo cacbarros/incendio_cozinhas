@@ -27,3 +27,10 @@ incendio_cozinhas/
 ├── simulacoes/          # Scripts e outputs de simulações (CFD, Fire Dynamics)
 ├── imagens/             # Diagramas, esquemas e ilustrações
 └── README.md            # Este ficheiro
+
+---
+
+## 📁 Organização e Git
+
+O projeto já inclui um ficheiro `.gitignore` adaptado a projetos Python com suporte a ambientes virtuais, Jupyter, simulações científicas, documentação técnica e IDEs. Isto garante um repositório limpo e sem ficheiros temporários ou sensíveis.
+
